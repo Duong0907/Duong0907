@@ -2,18 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=University+of+Information+Technology)](https://git.io/typing-svg"></a>
 </p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Duong0907&label=Profile%20views&color=0047AB&style=plastic?" alt="uong0907" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -21,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `3th year student` at [Faculty of Information Science and Engineering](https://fit.uit.edu.vn/) at [University of Information Technology](https://uit.edu.vn/).
+- :school: I am a `3th-year student` at [Faculty of Information Science and Engineering](https://fit.uit.edu.vn/) at [University of Information Technology](https://uit.edu.vn/).
 - :technologist: I have a strong interest in `Backend Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12xqtnkwVfPdtTQZ8tD6_0hfNSfPVvNXU/view?usp=sharing).
