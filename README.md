@@ -72,30 +72,6 @@
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<h3> 🔥 Streak Stats</h3>
-
-----
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Duong0907&theme=tokyonight_duo" alt="Duong0907" /></p>
-
-  
-<h3>💻 GitHub Profile Stats</h3>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="duong0907's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Duong0907&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duong0907&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-
 </br></br>
 ## 🐍 A Snake Eating my Contributions Graph
 	
