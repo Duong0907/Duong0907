@@ -51,6 +51,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+ &emsp;
+  <a><img alt="CSS" src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white"></a>
+&emsp;
+  <a><img alt="CSS" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"></a>
+&emsp;
+  <a><img alt="CSS" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
